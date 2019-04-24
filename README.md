@@ -24,7 +24,7 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 我们需要这样的你：
 
-1.2020 年本科或者研究生毕业的实习生
+1.2020 年本科或者研究生毕业的实习生(社招也需要)
 
 2.熟悉使用各种 Web 前端技术，尤其对 React+Redux(Mobx、graphql-apollo 等) + webpack 熟练使用或者 vue 全家桶熟练使用；
 
