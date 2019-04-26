@@ -10,6 +10,8 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 给我们投稿->[传送门](https://github.com/aliyunfe/weekly/issues/new)
 
+沟通交流，欢迎使用钉钉搜索 21926384 ，加入群聊。
+
 # 目录
 
 [《阿里云前端技术周刊》第一期](./weekly/《阿里云前端技术周刊》第一期.md)
@@ -19,4 +21,3 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 我们是阿里云智能商业中台体验技术团队 [详情](https://github.com/aliyunfe/weekly/blob/master/about.md)
 
 如有兴趣加入我们，简历请发至： ranmo.cy@alibaba-inc.com
-
