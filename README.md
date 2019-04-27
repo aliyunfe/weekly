@@ -10,7 +10,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 翻译小组：[阿里云翻译小组](https://github.com/dawn-plex/translate)
 
-给我们投稿：[传送门](https://github.com/aliyunfe/weekly/issues/new)
+[如何投稿](https://github.com/aliyunfe/weekly/issues/new)
+
+[如何订阅本周刊](./subscribe.md)
+
+[与更多同行交流](./communication.md)
 
 # 目录
 
@@ -24,12 +28,3 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 如有兴趣加入我们，简历/沟通请至： ranmo.cy@alibaba-inc.com/yeshu.lrt@alibaba-inc.com
 
-# 订阅方式
-- rss 订阅：https://github.com/aliyunfe/weekly/releases.atom
-- 使用 github 仓库的 Watch Releases only 功能进行订阅，仓库地址：https://github.com/aliyunfe/weekly/tree/master/weekly
-<img src="https://img.alicdn.com/tfs/TB1kIeESW6qK1RjSZFmXXX0PFXa-1860-734.png" height="360" />
-
-# 交流沟通
-欢迎使用 钉钉 搜索群号 21926384 或扫描下方二维码，加群交流。
-
-<img src="https://img.alicdn.com/tfs/TB1BEBSafc3T1VjSZPfXXcWHXXa-876-1322.jpg" width="300" />
