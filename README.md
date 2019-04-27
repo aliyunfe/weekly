@@ -15,6 +15,7 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 # 目录
 
 [《阿里云前端技术周刊》第一期](./weekly/《阿里云前端技术周刊》第一期.md)
+
 [《阿里云前端技术周刊》第二期](./weekly/《阿里云前端技术周刊》第二期.md)
 
 # 关于我们
@@ -22,6 +23,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 我们是阿里云智能商业中台体验技术团队 [详情](https://github.com/aliyunfe/weekly/blob/master/about.md)
 
 如有兴趣加入我们，简历/沟通请至： ranmo.cy@alibaba-inc.com/yeshu.lrt@alibaba-inc.com
+
+# 订阅方式
+- rss 订阅：https://github.com/aliyunfe/weekly/releases.atom
+- 使用 github 仓库的 Watch Releases only 功能进行订阅，仓库地址：https://github.com/aliyunfe/weekly/tree/master/weekly
+<img src="https://img.alicdn.com/tfs/TB1kIeESW6qK1RjSZFmXXX0PFXa-1860-734.png" height="360" />
 
 # 交流沟通
 欢迎使用 钉钉 搜索群号 21926384 或扫描下方二维码，加群交流。
