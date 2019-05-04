@@ -22,6 +22,8 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第二期](./weekly/《阿里云前端技术周刊》第二期.md)
 
+[《阿里云前端技术周刊》第三期](./weekly/《阿里云前端技术周刊》第三期.md)
+
 # 关于我们
 
 我们是阿里云智能商业中台体验技术团队 [详情](https://github.com/aliyunfe/weekly/blob/master/about.md)
