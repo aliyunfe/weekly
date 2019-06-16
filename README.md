@@ -34,6 +34,8 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第八期](./weekly/《阿里云前端技术周刊》第八期.md)
 
+[《阿里云前端技术周刊》第九期](./weekly/《阿里云前端技术周刊》第九期.md)
+
 # 核心作者
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
