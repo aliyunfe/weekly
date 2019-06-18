@@ -41,11 +41,6 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 | [<img src="https://avatars1.githubusercontent.com/u/17812136?s=400&u=cf4180567729f3fe7b3cbae7d7813fd48af21f8b&v=4" width="100px;"/><br /><sub><b>染陌同学</b></sub>](https://github.com/answershuto) | [<img src="https://avatars1.githubusercontent.com/u/7669565?s=400&v=4" width="100px;"/><br /><sub><b>luckyjing</b></sub>](https://github.com/luckyjing) | [<img src="https://avatars0.githubusercontent.com/u/17585588?s=400&v=4" width="100px;"/><br /><sub><b>Cyrilszq</b></sub>](https://github.com/Cyrilszq) | [<img src="https://avatars3.githubusercontent.com/u/13093537?s=400&v=4" width="100px;"/><br /><sub><b>yeshu</b></sub>](https://github.com/xdlrt) | [<img src="https://avatars0.githubusercontent.com/u/927118?s=400&v=4" width="100px;"/><br /><sub><b>山河</b></sub>](https://github.com/lianmin) | [<img src="https://avatars3.githubusercontent.com/u/7887063?s=400&v=4" width="100px;"/><br /><sub><b>ruohuan</b></sub>](https://github.com/ruohuan) | [<img src="https://avatars2.githubusercontent.com/u/854370?s=400&v=4" width="100px;"/><br /><sub><b>前山</b></sub>](https://github.com/xiaoshan5733) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-# 友情链接
-
-| [<img src="https://avatars0.githubusercontent.com/u/42642444?s=200&v=4" width="100px;"/><br /><sub><b>阿里云翻译小组</b></sub>](https://github.com/dawn-plex/translate) | [<img src="https://avatars3.githubusercontent.com/u/35253996?s=200&v=4" width="100px;"/><br /><sub><b>阿里云 TXD 前端月刊</b></sub>](https://github.com/txd-team/monthly) |
-|:---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
 # 关于我们
 
 我们是阿里云智能商业中台体验技术团队 [详情](https://github.com/aliyunfe/weekly/blob/master/about.md)
