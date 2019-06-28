@@ -45,8 +45,20 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 # 友情链接
 
-| [<img src="https://avatars0.githubusercontent.com/u/42642444?s=200&v=4" width="100px;"/><br /><sub><b>阿里云翻译小组</b></sub>](https://github.com/dawn-plex/translate) | [<img src="https://avatars3.githubusercontent.com/u/35253996?s=200&v=4" width="100px;"/><br /><sub><b>阿里云 TXD 前端月刊</b></sub>](https://github.com/txd-team/monthly) |
-|:---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/dawn-plex/translate">
+            <img src="https://avatars0.githubusercontent.com/u/42642444?s=200&v=4" width="75px;"/><br /><sub><b>阿里云翻译小组</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/txd-team/monthly">
+            <img src="https://avatars3.githubusercontent.com/u/35253996?s=200&v=4" width="75px;" /><br /><sub><b>阿里云 TXD 前端月刊</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
 
 # 关于我们
 
