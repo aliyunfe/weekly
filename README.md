@@ -46,17 +46,12 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Cyrilszq">
-            <img src="" width="50px;"/><br /><sub><b></b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/luckyjing">
             <img src="https://avatars1.githubusercontent.com/u/7669565?s=400&v=4" width="50px;"/><br /><sub><b>luckyjing</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="">
+        <a href="https://github.com/Cyrilszq">
             <img src="https://avatars0.githubusercontent.com/u/17585588?s=400&v=4" width="50px;"/><br /><sub><b>Cyrilszq</b></sub>
         </a>
     </td>
@@ -73,11 +68,6 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
     <td align="center">
         <a href="https://github.com/ruohuan">
             <img src="https://avatars3.githubusercontent.com/u/7887063?s=400&v=4" width="50px;"/><br /><sub><b>ruohuan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="">
-            <img src="" width="50px;"/><br /><sub><b></b></sub>
         </a>
     </td>
     <td align="center">
