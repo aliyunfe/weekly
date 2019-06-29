@@ -75,6 +75,16 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
             <img src="https://avatars2.githubusercontent.com/u/854370?s=400&v=4" width="50px;"/><br /><sub><b>前山</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/su-dan">
+            <img src="https://avatars2.githubusercontent.com/u/14104060?s=400&v=4" width="50px;"/><br /><sub><b>sudan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ql434">
+            <img src="https://avatars1.githubusercontent.com/u/7567247?s=400&v=4" width="50px;"/><br /><sub><b>kunqian</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
