@@ -8,8 +8,6 @@
 
 Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
-翻译小组：[阿里云翻译小组](https://github.com/dawn-plex/translate)
-
 [如何投稿](https://github.com/aliyunfe/weekly/issues/new)
 
 [如何订阅本周刊](./subscribe.md)
@@ -40,8 +38,55 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 # 核心作者
 
-| [<img src="https://avatars1.githubusercontent.com/u/17812136?s=400&u=cf4180567729f3fe7b3cbae7d7813fd48af21f8b&v=4" width="100px;"/><br /><sub><b>染陌同学</b></sub>](https://github.com/answershuto) | [<img src="https://avatars1.githubusercontent.com/u/7669565?s=400&v=4" width="100px;"/><br /><sub><b>luckyjing</b></sub>](https://github.com/luckyjing) | [<img src="https://avatars0.githubusercontent.com/u/17585588?s=400&v=4" width="100px;"/><br /><sub><b>Cyrilszq</b></sub>](https://github.com/Cyrilszq) | [<img src="https://avatars3.githubusercontent.com/u/13093537?s=400&v=4" width="100px;"/><br /><sub><b>yeshu</b></sub>](https://github.com/xdlrt) | [<img src="https://avatars0.githubusercontent.com/u/927118?s=400&v=4" width="100px;"/><br /><sub><b>山河</b></sub>](https://github.com/lianmin) | [<img src="https://avatars3.githubusercontent.com/u/7887063?s=400&v=4" width="100px;"/><br /><sub><b>ruohuan</b></sub>](https://github.com/ruohuan) | [<img src="https://avatars2.githubusercontent.com/u/854370?s=400&v=4" width="100px;"/><br /><sub><b>前山</b></sub>](https://github.com/xiaoshan5733) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/answershuto">
+            <img src="https://avatars1.githubusercontent.com/u/17812136?s=400&u=cf4180567729f3fe7b3cbae7d7813fd48af21f8b&v=4" width="50px;"/><br /><sub><b>染陌同学</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Cyrilszq">
+            <img src="" width="50px;"/><br /><sub><b></b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/luckyjing">
+            <img src="https://avatars1.githubusercontent.com/u/7669565?s=400&v=4" width="50px;"/><br /><sub><b>luckyjing</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="">
+            <img src="https://avatars0.githubusercontent.com/u/17585588?s=400&v=4" width="50px;"/><br /><sub><b>Cyrilszq</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xdlrt">
+            <img src="https://avatars3.githubusercontent.com/u/13093537?s=400&v=4" width="50px;"/><br /><sub><b>yeshu</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lianmin">
+            <img src="https://avatars0.githubusercontent.com/u/927118?s=400&v=4" width="50px;"/><br /><sub><b>山河</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ruohuan">
+            <img src="https://avatars3.githubusercontent.com/u/7887063?s=400&v=4" width="50px;"/><br /><sub><b>ruohuan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="">
+            <img src="" width="50px;"/><br /><sub><b></b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xiaoshan5733">
+            <img src="https://avatars2.githubusercontent.com/u/854370?s=400&v=4" width="50px;"/><br /><sub><b>前山</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
 
 # 友情链接
 
