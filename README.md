@@ -104,6 +104,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
             <img src="https://avatars3.githubusercontent.com/u/35253996?s=200&v=4" width="100px;" /><br /><sub><b>阿里云 TXD 前端月刊</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/dt-fe/weekly">
+            <img src="https://avatars2.githubusercontent.com/u/26534952?s=200&v=4" width="100px;" /><br /><sub><b>前端精读周刊</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
