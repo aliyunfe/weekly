@@ -87,6 +87,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
             <img src="https://avatars1.githubusercontent.com/u/7567247?s=400&v=4" width="50px;"/><br /><sub><b>kunqian</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/xuwenmin">
+            <img src="https://avatars0.githubusercontent.com/u/3427988?s=400&v=4" width="50px;"/><br /><sub><b>亦才</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
