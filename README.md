@@ -94,6 +94,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
             <img src="https://avatars0.githubusercontent.com/u/3427988?s=400&v=4" width="50px;"/><br /><sub><b>亦才</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/pianzuozj">
+            <img src="https://avatars2.githubusercontent.com/u/48896524?s=400&v=4" width="50px;"/><br /><sub><b>pianzuozj</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
