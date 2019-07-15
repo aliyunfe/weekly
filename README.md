@@ -101,6 +101,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
             <img src="https://avatars2.githubusercontent.com/u/48896524?s=400&v=4" width="50px;"/><br /><sub><b>pianzuozj</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/fengruiabc">
+            <img src="https://avatars1.githubusercontent.com/u/20036035?s=460&v=4" width="50px;"/><br /><sub><b>fengruiabc</b></sub>
+        </a>
+    </td>
   </tr>
 </table>
 
