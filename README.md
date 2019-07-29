@@ -42,7 +42,9 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第十三期](./weekly/《阿里云前端技术周刊》第十三期.md)
 
-[《阿里云前端技术周刊》第十四期 ](./weekly/《阿里云前端技术周刊》第十四期.md)
+[《阿里云前端技术周刊》第十四期](./weekly/《阿里云前端技术周刊》第十四期.md)
+
+[《阿里云前端技术周刊》第十五期](./weekly/《阿里云前端技术周刊》第十五期.md)
 
 # 核心作者
 
@@ -106,6 +108,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
     <td align="center">
         <a href="https://github.com/fengruiabc">
             <img src="https://avatars1.githubusercontent.com/u/20036035?s=460&v=4" width="50px;"/><br /><sub><b>fengruiabc</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yanm1ng">
+            <img src="https://avatars2.githubusercontent.com/u/16443628?s=460&v=4" width="50px;"/><br /><sub><b>yanm1ng</b></sub>
         </a>
     </td>
   </tr>
