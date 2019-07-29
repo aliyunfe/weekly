@@ -1,3 +1,13 @@
+# 校园招聘
+
+校招开始了！！！
+
+校招开始了！！！
+
+校招开始了！！！
+
+加入我们猛戳 -> [传送门](./CampusRecruiting.md)
+
 # 阿里云前端技术周刊
 
 当下，前端技术蓬勃发展，从 jQuery 到三大框架，从 RN、Weex 到小程序，以及通过 Node.js 为我们拓展更大的疆域，各类技术层出不穷。这就需要我们怀揣着好奇心去探索学习，开阔技术视野，加深技术广度和深度。互联网上的资源虽多但不精，因此希望将优质的学习资源进行整合，《阿里云前端技术周刊》全新启航！
@@ -145,4 +155,3 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 我们是阿里云智能商业中台体验技术团队 [详情](https://github.com/aliyunfe/weekly/blob/master/about.md)
 
 如有兴趣加入我们，简历/沟通请至： ranmo.cy@alibaba-inc.com / yeshu.lrt@alibaba-inc.com / jingxin.sjx@alibaba-inc.com
-
