@@ -56,6 +56,8 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第十五期](./weekly/《阿里云前端技术周刊》第十五期.md)
 
+[《阿里云前端技术周刊》第十六期](./weekly/《阿里云前端技术周刊》第十六期.md)
+
 # 核心作者
 
 <table>
@@ -128,6 +130,11 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
     <td align="center">
         <a href="https://github.com/fengruiabc">
             <img src="https://avatars1.githubusercontent.com/u/20036035?s=460&v=4" width="50px;"/><br /><sub><b>fengruiabc</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GuoChen-WHU">
+            <img src="https://avatars0.githubusercontent.com/u/13191917?s=460&v=4" width="50px;"/><br /><sub><b>GuoChen-WHU</b></sub>
         </a>
     </td>
   </tr>
