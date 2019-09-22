@@ -34,6 +34,12 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第十八期](./weekly/《阿里云前端技术周刊》第十八期.md)
 
+[《阿里云前端技术周刊》第十九期](./weekly/《阿里云前端技术周刊》第十九期.md)
+
+[《阿里云前端技术周刊》第二十期](./weekly/《阿里云前端技术周刊》第二十期.md)
+
+[《阿里云前端技术周刊》第二十一期](./weekly/《阿里云前端技术周刊》第二十一期.md)
+
 # 核心作者
 
 <table>
@@ -116,6 +122,16 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
     <td align="center">
         <a href="https://github.com/jeasonstudio">
             <img src="https://avatars2.githubusercontent.com/u/17971291?s=60&v=4" width="50px;"/><br /><sub><b>Jeason</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LuckyAbby">
+            <img src="https://avatars2.githubusercontent.com/u/22868275?s=460&v=4" width="50px;"/><br /><sub><b>Abby</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tobacco91">
+            <img src="https://avatars3.githubusercontent.com/u/16256143?s=400&u=5ceeaa109ef47ff820cc34112fb5c7d314a5f3ea&v=4" width="50px;"/><br /><sub><b>tobacco91</b></sub>
         </a>
     </td>
   </tr>
