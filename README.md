@@ -44,6 +44,9 @@ Github：[阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 [《阿里云前端技术周刊》第二十三期](./weekly/《阿里云前端技术周刊》第二十三期.md)
 
+[《阿里云前端技术周刊》第二十四期](./weekly/《阿里云前端技术周刊》第二十四期.md)
+
+
 # 核心作者
 
 <table>
